@@ -29,6 +29,7 @@ This is a proposed standard for LTO Network Generators to reference in a LTO_GEN
     - reddit: Username
     - keybase: Username
     - telegram: Username
+    - linkedin: Profilename
     - wechat: Username
 
 ### How to use it if you are running an LTO Public Node 

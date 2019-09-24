@@ -4,12 +4,7 @@
       "node_name": "SBR Node",
       "node_description": "This is my LTO node, there are many like it, but this one is mine",
       "website": "https://www.svenbrekelmans.nl",
-      "ownership_disclosure": "https://www.svenbrekelmans.nl",
       "email":"info@svenbrekelmans.nl",
-      "location": {
-        "name": "Netherlands",
-        "country": "NL"
-      },
       "node_type": "public",
       "api_endpoint": "http://116.203.237.225:6869",
       "branding":{

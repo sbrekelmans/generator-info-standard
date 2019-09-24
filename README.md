@@ -8,11 +8,8 @@ This is a proposed standard for LTO Network Generators to reference in a LTO_GEN
   - node_name: Node/organization name
   - node_description
   - website: LTO Node website
-  - ownership_disclosure: Full link to where it is,
+  - ownership_disclosure: Full link to where it is
   - email: Contact email
-  - location: Node location
-    - name: Node location in human readable format [City, State]
-    - country: Country code [XX] in accordance to [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
   - node_type: Type of service `public/anchor/full`
   - api_endpoint: LTO REST API `http://host:port`
   - branding: {Object} - Logo images
